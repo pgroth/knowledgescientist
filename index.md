@@ -14,7 +14,7 @@ title: Knowledge Science
 </section>
 
 <!-- One -->
-<section id="one" class="wrapper style2 spotlights">
+<section id="one" class="wrapper style2 fade-up">
 	<div class="inner">
 	    <h2>10 Questions</h2>
 		<ul>
