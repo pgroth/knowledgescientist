@@ -6,22 +6,22 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Knowledge Scienctist
-email: 
+title: Knowledge Scientist
+email:
 description: Knowledge Science
 baseurl: "/hyperspace-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
 
 # Social settings
-500px_url: 
-facebook_url: 
-github_url: 
-gitlab_url: 
-googleplus_url: 
-instagram_url: 
+500px_url:
+facebook_url:
+github_url:
+gitlab_url:
+googleplus_url:
+instagram_url:
 linkedin_url:
-pinterest_url: 
-slack_url: 
+pinterest_url:
+slack_url:
 twitter_url: h
 
 # Build settings
@@ -29,11 +29,11 @@ markdown: kramdown
 
 # Plugin: jekyll-seo-tag
 twitter:
-  username: 
+  username:
 # Add one or more of the following
 facebook:
-  app_id: 
-  publisher: 
-  admins: 
+  app_id:
+  publisher:
+  admins:
 logo:
-google_site_verification: 
+google_site_verification:
