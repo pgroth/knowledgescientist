@@ -5,7 +5,7 @@ title: Knowledge Science
 <!-- Intro -->
 <section id="intro" class="wrapper style1 fullscreen fade-up">
 	<div class="inner">
-		<h1>Do you do Knowledge Science?</h1>
+		<h1>Are you a Knowledge Scientist?</h1>
         <p>Do you...</p>
         <ol>
         <li>lead conversations with your organization’s stakeholders to understand their pain points?</li>
