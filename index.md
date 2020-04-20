@@ -33,6 +33,11 @@ title: Knowledge Science
 <section id="one" class="wrapper style2 fullscreen fade-up">
 	<div class="inner">
     <h2>The Essay</h2>
+    <div class="6u$"><a href="https://arxiv.org/abs/2004.07917"><span class="image fit"><img src="./knowledgescientistsfirstpage.png" alt="First page of the essay" /></span></a>
+    <blockquote>
+    Fletcher, George, Paul Groth, and Juan Sequeda. “Knowledge Scientists: Unlocking the Data-Driven Organization.” ArXiv:2004.07917 [Cs], April 16, 2020. <a href="https://arxiv.org/abs/2004.07917">http://arxiv.org/abs/2004.07917</a>.
+    </blockquote>
+    </div>
     <ul class="actions">
         <li><a href="#two" class="button scrolly">The Community</a></li>
     </ul>
