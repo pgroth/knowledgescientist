@@ -9,7 +9,7 @@
 title: Knowledge Scientist
 email:
 description: Knowledge Science
-baseurl: "/hyperspace-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.knowledgescientist.org" # the base hostname & protocol for your site
 
 # Social settings
